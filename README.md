@@ -56,11 +56,11 @@ This project introduces a **Rough Decision Making Framework** for handling uncer
 - **Lower and Upper Rough Decisions**: Provides nuanced classifications.
 - **Accuracy**: Enhanced performance in uncertain conditions.
 
-### Table: Confidence Intervals for Emotions
-![Confidence Intervals for Emotions](attachment:confidence_intervals_table.png)
+### Sample Images with Parameters
+![Sample Images with Parameters](tables/sample_images.jpg)
 
-### Table: Sample Images with Parameters
-![Sample Images with Parameters](attachment:sample_images_parameters_table.png)
+### Results with Proposed Model
+![Results](tables/results.jpg)
 
 
 ---
